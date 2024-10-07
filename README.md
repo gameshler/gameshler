@@ -2,12 +2,12 @@
 
 ### Hi I'm Gameshler 👋
 
-Welcome to my GitHub repository >>>
+# Welcome to my GitHub repository
 
 👨‍💻 Full Stack Developer | Sharing my journey in tech <br/>
 🚀 Passionate about crafting efficient and elegant web solutions <br/>
 
-Most of my recent projects are private
+- Most of my recent projects are private
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
