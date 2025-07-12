@@ -6,8 +6,19 @@ Most of my recent projects are private
 
 <p align="left"><img src="https://raw.githubusercontent.com/gameshler/gameshler/main/github-metrics.svg" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=gameshler&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameshler&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=gameshler&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 👷 Check out what I'm currently working on
+{{ range recentContributions 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
+### 🌱 My latest projects
+{{ range recentRepos 5 }}
+- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
+{{- end }}
+### 🔨 My recent Pull Requests
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
+### ⭐ Recent Stars
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}

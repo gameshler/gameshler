@@ -2,12 +2,15 @@
 
 Most of my recent projects are private
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left"><img src="https://raw.githubusercontent.com/gameshler/gameshler/main/github-metrics.svg" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=gameshler&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### 👷 Check out what I'm currently working on
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gameshler&layout=compact)
+- [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation & Automation Guide
+- [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Script that automate tasks to correctly setup your mac
 
-![](https://github-profile-trophy.vercel.app/?username=gameshler&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🌱 My latest projects
+
+- [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation & Automation Guide
