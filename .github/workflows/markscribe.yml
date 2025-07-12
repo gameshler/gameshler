@@ -9,7 +9,8 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,3 +29,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         with:
           commit_message: "markscribe: update README.md"
+          token: ${{ secrets.GH_PAT }}
