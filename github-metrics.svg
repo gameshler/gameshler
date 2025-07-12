@@ -2290,8 +2290,12 @@
                 </svg>
             </section>
             <footer>
+<<<<<<< HEAD
                 <span>These metrics include private contributions</span>
                 <span>Last updated 12 Jul 2025, 14:13:47 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+=======
+                <span>Last updated 12 Jul 2025, 14:00:19 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+>>>>>>> 1606d21 (UPDATE README)
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
