@@ -8,7 +8,7 @@ Most of my recent projects are private
 
 ### 👷 Check out what I'm currently working on
 
-- [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources) - 
+- [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources) - Learn to Code Resources
 - [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / plugins / extensions / settings I use for VSCode.
 - [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Script that automate tasks to correctly setup your mac  
@@ -16,7 +16,7 @@ Most of my recent projects are private
 
 ### 🌱 My latest projects
 
-- [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources) - 
+- [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources) - Learn to Code Resources
 - [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / plugins / extensions / settings I use for VSCode.
 - [gameshler/chat-platform-nodejs](https://github.com/gameshler/chat-platform-nodejs) - A real-time chat platform backend enabling real-time messaging, user management, and more.
