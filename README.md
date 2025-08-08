@@ -24,11 +24,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat: github workflow](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide/pull/23) on [FR33THYFR33THY/Ultimate-Windows-Optimization-Guide](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide)
+- [Fixed Github Workflow](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide/pull/2) on [gameshler/Ultimate-Windows-Optimization-Guide](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide)
+- [Refactored Scripts ](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide/pull/1) on [gameshler/Ultimate-Windows-Optimization-Guide](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide)
+- [Refactored Scripts](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide/pull/22) on [FR33THYFR33THY/Ultimate-Windows-Optimization-Guide](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide)
 - [fix(main.sh)](https://github.com/gameshler/arch_install/pull/14) on [gameshler/arch_install](https://github.com/gameshler/arch_install)
-- [Fixed main script execution](https://github.com/gameshler/arch_install/pull/13) on [gameshler/arch_install](https://github.com/gameshler/arch_install)
-- [features and improvements](https://github.com/gameshler/arch_install/pull/12) on [gameshler/arch_install](https://github.com/gameshler/arch_install)
-- [Feat/apps](https://github.com/gameshler/arch_install/pull/11) on [gameshler/arch_install](https://github.com/gameshler/arch_install)
-- [Update README.md](https://github.com/gameshler/learn-to-code-resources/pull/2) on [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources)
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
