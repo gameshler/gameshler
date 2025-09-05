@@ -8,8 +8,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - 
 - [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
+- [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - 
 - [gameshler/Office-Installer-Windows](https://github.com/gameshler/Office-Installer-Windows) - A PowerShell script designed to automate the installation and activation of Microsoft Office 2024 on Windows systems.
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / plugins / extensions / settings I use for VSCode.
 - [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
