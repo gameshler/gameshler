@@ -8,11 +8,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Script that automate tasks to correctly setup your mac  
+- [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 - [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 - [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - 
 - [gameshler/Office-Installer-Windows](https://github.com/gameshler/Office-Installer-Windows) - A PowerShell script designed to automate the installation and activation of Microsoft Office 2024 on Windows systems.
-- [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / plugins / extensions / settings I use for VSCode.
-- [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 
 ### 🌱 My latest projects
 
@@ -24,13 +24,11 @@
 
 ### 🔨 My recent Pull Requests
 
-- [Dev](https://github.com/gameshler/trading-journal/pull/1) on [gameshler/trading-journal](https://github.com/gameshler/trading-journal)
-- [feat: github workflow](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide/pull/23) on [FR33THYFR33THY/Ultimate-Windows-Optimization-Guide](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide)
-- [Fixed Github Workflow](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide/pull/2) on [gameshler/Ultimate-Windows-Optimization-Guide](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide)
-- [Refactored Scripts ](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide/pull/1) on [gameshler/Ultimate-Windows-Optimization-Guide](https://github.com/gameshler/Ultimate-Windows-Optimization-Guide)
-- [Refactored Scripts](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide/pull/22) on [FR33THYFR33THY/Ultimate-Windows-Optimization-Guide](https://github.com/FR33THYFR33THY/Ultimate-Windows-Optimization-Guide)
+- [feat: added custom office installation](https://github.com/gameshler/macsetup/pull/5) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
+- [feat: added apps](https://github.com/gameshler/macsetup/pull/4) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
+- [feat: zoom.sh](https://github.com/gameshler/macsetup/pull/3) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
+- [Added Office &amp; Refactored common-script.sh](https://github.com/gameshler/macsetup/pull/2) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
+- [Menu System](https://github.com/gameshler/macsetup/pull/1) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gameshler&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br><br>
