@@ -9,7 +9,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / settings I use for VSCode.
-- [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Script that automate tasks to correctly setup your mac  
+- [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
 - [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 - [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 - [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - 
