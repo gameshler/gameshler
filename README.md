@@ -8,9 +8,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
 - [gameshler/neovim](https://github.com/gameshler/neovim) - 
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / settings I use for VSCode.
-- [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
 - [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 - [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 
@@ -24,11 +24,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat: neovim.sh](https://github.com/gameshler/macsetup/pull/6) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [feat: added custom office installation](https://github.com/gameshler/macsetup/pull/5) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [feat: added apps](https://github.com/gameshler/macsetup/pull/4) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [feat: zoom.sh](https://github.com/gameshler/macsetup/pull/3) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [Added Office &amp; Refactored common-script.sh](https://github.com/gameshler/macsetup/pull/2) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
-- [Menu System](https://github.com/gameshler/macsetup/pull/1) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
