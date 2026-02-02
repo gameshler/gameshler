@@ -23,5 +23,3 @@
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gameshler&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d111700)<br><br>
