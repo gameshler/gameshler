@@ -9,9 +9,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
+- [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / settings I use for VSCode.
-- [gameshler/arch_install](https://github.com/gameshler/arch_install) - Secure Arch Linux Installation &amp; Automation Guide
 - [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 
 ### 🌱 My latest projects
@@ -32,5 +32,3 @@
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gameshler&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d111700)<br><br>
