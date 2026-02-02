@@ -24,11 +24,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [feat(office.sh): added office suite checker](https://github.com/gameshler/macsetup/pull/8) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
+- [update(dev-setup.sh): removed oh-my-zsh ](https://github.com/gameshler/macsetup/pull/7) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [feat: neovim.sh](https://github.com/gameshler/macsetup/pull/6) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [feat: added custom office installation](https://github.com/gameshler/macsetup/pull/5) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [feat: added apps](https://github.com/gameshler/macsetup/pull/4) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
-- [feat: zoom.sh](https://github.com/gameshler/macsetup/pull/3) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
-- [Added Office &amp; Refactored common-script.sh](https://github.com/gameshler/macsetup/pull/2) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
