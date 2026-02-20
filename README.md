@@ -8,8 +8,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 - [gameshler/arch-gameshler](https://github.com/gameshler/arch-gameshler) - Secure Arch Linux Installation Guide including a menu system TUI that automates tasks to correctly setup your arch
+- [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 - [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / settings I use for VSCode.
