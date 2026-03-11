@@ -11,16 +11,16 @@
 - [gameshler/arch-gameshler](https://github.com/gameshler/arch-gameshler) - Secure Arch Linux Installation Guide including a menu system TUI that automates tasks to correctly setup your arch
 - [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
-- [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / settings I use for VSCode.
+- [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
 
 ### 🌱 My latest projects
 
 - [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - Windows powershell profile 
-- [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 - [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources) - Learn to Code Resources
+- [gameshler/arch-gameshler](https://github.com/gameshler/arch-gameshler) - Secure Arch Linux Installation Guide including a menu system TUI that automates tasks to correctly setup your arch
 
 ### 🔨 My recent Pull Requests
 
