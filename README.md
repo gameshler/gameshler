@@ -9,14 +9,14 @@
 ### 👷 Check out what I'm currently working on
 
 - [gameshler/arch-gameshler](https://github.com/gameshler/arch-gameshler) - Secure Arch Linux Installation Guide including a menu system TUI that automates tasks to correctly setup your arch
-- [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM
+- [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM Configuration Pre-Patched
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / settings I use for VSCode.
 
 ### 🌱 My latest projects
 
-- [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM
+- [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM Configuration Pre-Patched
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - Windows powershell profile 
 - [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources) - Learn to Code Resources
@@ -24,11 +24,11 @@
 
 ### 🔨 My recent Pull Requests
 
+- [Refactor](https://github.com/FR33THYFR33THY/Ultimate/pull/48) on [FR33THYFR33THY/Ultimate](https://github.com/FR33THYFR33THY/Ultimate)
 - [feat: patches, polybar &amp; project finder menu](https://github.com/gameshler/dwm/pull/1) on [gameshler/dwm](https://github.com/gameshler/dwm)
 - [feat(office.sh): added office suite checker](https://github.com/gameshler/macsetup/pull/8) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [update(dev-setup.sh): removed oh-my-zsh ](https://github.com/gameshler/macsetup/pull/7) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 - [feat: neovim.sh](https://github.com/gameshler/macsetup/pull/6) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
-- [feat: added custom office installation](https://github.com/gameshler/macsetup/pull/5) on [gameshler/macsetup](https://github.com/gameshler/macsetup)
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
