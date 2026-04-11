@@ -16,10 +16,5 @@
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
 {{- end }}
 
-### 🔨 My recent Pull Requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
-
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
