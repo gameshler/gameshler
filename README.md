@@ -8,7 +8,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [gameshler/files](https://github.com/gameshler/files) - 
+- [gameshler/files](https://github.com/gameshler/files) - winsetup files
 - [gameshler/archsetup](https://github.com/gameshler/archsetup) - Secure Arch Linux Installation Guide including a menu system TUI that automates tasks to correctly setup your arch
 - [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
 - [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM Configuration Pre-Patched
@@ -16,7 +16,7 @@
 
 ### 🌱 My latest projects
 
-- [gameshler/files](https://github.com/gameshler/files) - 
+- [gameshler/files](https://github.com/gameshler/files) - winsetup files
 - [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM Configuration Pre-Patched
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - Windows powershell profile 
