@@ -10,17 +10,17 @@
 
 - [gameshler/archsetup](https://github.com/gameshler/archsetup) - Secure Arch Linux Installation Guide including a menu system TUI that automates tasks to correctly setup your arch
 - [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
-- [gameshler/winsetup](https://github.com/gameshler/winsetup) - A repository for winsetup
 - [gameshler/files](https://github.com/gameshler/files) - winsetup files
 - [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM Configuration Pre-Patched
+- [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 
 ### 🌱 My latest projects
 
 - [gameshler/files](https://github.com/gameshler/files) - winsetup files
-- [gameshler/winsetup](https://github.com/gameshler/winsetup) - A repository for winsetup
 - [gameshler/dwm](https://github.com/gameshler/dwm) - My DWM Configuration Pre-Patched
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/powershell-profile](https://github.com/gameshler/powershell-profile) - Windows powershell profile 
+- [gameshler/learn-to-code-resources](https://github.com/gameshler/learn-to-code-resources) - Learn to Code Resources
 
 ### 📫 How to reach me:
   - X   : <https://x.com/gameshler>
