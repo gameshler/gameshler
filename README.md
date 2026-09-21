@@ -8,11 +8,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [gameshler/archsetup](https://github.com/gameshler/archsetup) - Secure Arch Linux Installation Guide including a menu system TUI that automates tasks to correctly setup your arch
 - [gameshler/macsetup](https://github.com/gameshler/macsetup) - A Menu System Script that automate tasks to correctly setup your mac  
 - [gameshler/neovim](https://github.com/gameshler/neovim) - Nvim configuration 
 - [gameshler/auth-system](https://github.com/gameshler/auth-system) - 
 - [gameshler/vscode-settings](https://github.com/gameshler/vscode-settings) - All of the themes / settings I use for VSCode.
-- [gameshler/trading-journal](https://github.com/gameshler/trading-journal) - Trade Journal Management including an Integrated Authentication System
 
 ### 🌱 My latest projects
 
